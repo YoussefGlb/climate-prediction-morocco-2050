@@ -1,0 +1,36 @@
+# ================================
+# DATA — too large for GitHub
+# ================================
+ML/data/
+DL/data/
+
+# ================================
+# ML outputs (GeoTIFF predictions)
+# ================================
+ML/predictions_maroc_ML_improvedV3entire/
+DL/predictions_maroc_DL/
+
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ================================
+# OS
+# ================================
+.DS_Store
+Thumbs.db
+
+# ================================
+# Jupyter
+# ================================
+.ipynb_checkpoints/
+*.ipynb
