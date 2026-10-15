@@ -298,4 +298,4 @@ Opens the extended GUI. Load your historical folder and/or predicted folder, the
 
 ## 👤 Author
 
-**Youssef Guelloub** — Climate ML project, Morocco
+**Youssef Ghalab** — Climate ML project, Morocco
